@@ -86,6 +86,7 @@ Developed by:A.Allahbakash RegisterNumber:212225240007
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 <img width="671" height="339" alt="Screenshot 2026-03-12 104844" src="https://github.com/user-attachments/assets/0d952817-6ff6-4d39-915e-cf47f008d828" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
